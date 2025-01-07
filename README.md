@@ -25,7 +25,7 @@ EDUCATION
 * Statistical Analysis  
 * Data Validation and Visualization
 
-		**DataCamp Certification 				29 Oct. 2023**
+**DataCamp Certification 				29 Oct. 2023**
 
 * Certified Data Analyst  
 * New Product Sales Data Analysis Report 
