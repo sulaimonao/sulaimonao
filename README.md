@@ -14,11 +14,12 @@ SKILLS   **Core Competencies:**
 
 ![image1.png][image1]
 
-EDUCATION   **Kettering University – Flint, MI** 
+EDUCATION   
+**Kettering University – Flint, MI** 
 
 * Electrical Engineering  
 
-		**MasterSchool**						**Aug. 2023 \- Apr. 2024**
+**MasterSchool**						**Aug. 2023 \- Apr. 2024**
 
 * Data Analytics  
 * Statistical Analysis  
@@ -31,16 +32,17 @@ EDUCATION   **Kettering University – Flint, MI**
 
 ![image1.png][image1]
 
-EXPERIENCE	**Projects						Oct. 2016 \- Present**
+EXPERIENCE	
+**Projects						Oct. 2016 \- Present**
 
-		**HydraFlow Workflow Optimization (Aug. 2025 \- Present)**
+**HydraFlow Workflow Optimization (Aug. 2025 \- Present)**
 
 * Designed and implemented a modular workflow system called HydraFlow, facilitating efficient orchestration of complex data tasks.  
 * Integrated dynamic conversational templates and real-time AI persona creation, enhancing system adaptability and scalability.  
 * Utilized a custom YAML configuration to streamline backend operations and ensure seamless integration with Vercel-hosted deployments.  
 * Improved execution efficiency by 25% through optimized API endpoints and dynamic gauge metrics, such as token usage and engine load.
 
-		**Database Search Engine Development (Jul. 2025 \- Present)**
+**Database Search Engine Development (Jul. 2025 \- Present)**
 
 * Built a robust database search engine to support querying across large-scale conversation data, with over 50,000 entries.  
 * Implemented advanced SQL queries and JSON parsing logic for dynamic data retrieval and metadata display.  
